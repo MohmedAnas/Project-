@@ -1,0 +1,5 @@
+pygame>=2.1.0
+numpy>=1.21.0          # If used for map/grid handling or calculations
+pillow>=8.4.0          # For handling images or sprites
+playsound>=1.2.2       # Optional: for simple sound playback
+jsonschema>=4.0.0      # For validating save/load structures
